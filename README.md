@@ -1,5 +1,10 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+A mini game created with react js.
+
+How To Play:
+The program will generate a random integer between 0 to 100. Player has to guess the random number before ran out of attempts. Each time the player guessed a number either the minimun or maximun will be updated to help the player reduce the range, except the player guessed the correct answer. If the player guessed the correct anwser a alert box will be shown. Try to guess the answer before ran out of attempts. Have fun!
+
 ## Available Scripts
 
 In the project directory, you can run:
